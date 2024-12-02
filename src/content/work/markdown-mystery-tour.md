@@ -1,35 +1,25 @@
 ---
-title: Markdown Mystery Tour
+title: Géocode
 publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img: /assets/Logo.png
+img_alt: Logo du site.
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Nous avons construit un site web de géolocalisation de stations de recharge pour véhicules électriques.
 tags:
-  - Design
   - Dev
-  - User Testing
+  - Group project
+  - Backend
+  - API
+  - responsive
 ---
 
-## Level-two heading
+Dans le cadre de ma formation en développement web à la Wild Code School, j’ai eu l’opportunité de concevoir et développer, en collaboration avec une équipe de 4 personnes, un site web de géolocalisation des stations de recharge pour véhicules électriques. Ce projet, réalisé sur une durée de 8 semaines, constituait mon projet final en groupe et m’a permis de mettre en pratique l’ensemble des compétences acquises tout au long de la formation.
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+J’ai appliqué les technologies et outils modernes enseignés, en suivant une démarche complète et professionnelle :
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+    Méthodologie agile : j’ai participé à la gestion de projet en organisant des sprints et en prenant part à des réunions régulières pour assurer une communication fluide et une progression efficace.
+    Modélisation des données : j’ai contribué à la conception structurée des bases de données, garantissant la cohérence et la fiabilité des informations.
+    Tests unitaires : j’ai mis en place des tests automatisés pour vérifier la qualité et le bon fonctionnement du code.
+    Sécurisation : j’ai veillé à intégrer des bonnes pratiques pour protéger les données sensibles des utilisateurs.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
-
-### Level-three heading
-
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
-
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+Ce projet m’a permis de consolider mes compétences techniques en développement web tout en renforçant ma capacité à travailler en équipe, gérer un projet et résoudre des problèmes dans un cadre professionnel.
